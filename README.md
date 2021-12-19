@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/KemaList93/desktop-tutorial.git
+git clone https://github.com/KemaList93/kodluyoruzilkrepo.git
 ```
 
 ## Usage
